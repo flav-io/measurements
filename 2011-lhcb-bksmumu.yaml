@@ -1,0 +1,98 @@
+LHCb B0->K*mumu AFB 2011:
+  experiment: LHCb
+  inspire: Aaij:2011aa
+  values:
+    - name: <AFB>(B0->K*mumu)
+      q2min: 0.10
+      q2max: 2.0
+      value: -0.15 + 0.20 - 0.20 ± 0.06
+    - name: <AFB>(B0->K*mumu)
+      q2min: 2.0
+      q2max: 4.3
+      value: 0.05 + 0.16 - 0.20 ± 0.04
+    - name: <AFB>(B0->K*mumu)
+      q2min: 4.3
+      q2max: 8.68
+      value: 0.27 + 0.06 - 0.08 ± 0.02
+    - name: <AFB>(B0->K*mumu)
+      q2min: 10.09
+      q2max: 12.86
+      value: 0.27 + 0.11 - 0.13 ± 0.02
+    - name: <AFB>(B0->K*mumu)
+      q2min: 14.18
+      q2max: 16.00
+      value: 0.47 + 0.06 - 0.08 ± 0.03
+    - name: <AFB>(B0->K*mumu)
+      q2min: 16.0
+      q2max: 19.0
+      value: 0.16 + 0.11 - 0.13 ± 0.06
+    - name: <AFB>(B0->K*mumu)
+      q2min: 1.0
+      q2max: 6.0
+      value: -0.06 + 0.13 - 0.14 ± 0.04
+
+LHCb B0->K*mumu FL 2011:
+  experiment: LHCb
+  inspire: Aaij:2011aa
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 0.10
+      q2max: 2.0
+      value: 0.00 + 0.13 - 0.00 ± 0.02
+    - name: <FL>(B0->K*mumu)
+      q2min: 2.0
+      q2max: 4.3
+      value: 0.77 + 0.15 - 0.15 ± 0.03
+    - name: <FL>(B0->K*mumu)
+      q2min: 4.3
+      q2max: 8.68
+      value: 0.60 + 0.06 - 0.07 ± 0.01
+    - name: <FL>(B0->K*mumu)
+      q2min: 10.09
+      q2max: 12.86
+      value: 0.41 + 0.11 - 0.11 ± 0.03
+    - name: <FL>(B0->K*mumu)
+      q2min: 14.18
+      q2max: 16.00
+      value: 0.37 + 0.09 - 0.09 ± 0.05
+    - name: <FL>(B0->K*mumu)
+      q2min: 16.0
+      q2max: 19.0
+      value: 0.26 + 0.10 - 0.08 ± 0.03
+    - name: <FL>(B0->K*mumu)
+      q2min: 1.0
+      q2max: 6.0
+      value: 0.55 + 0.10 - 0.10 ± 0.03
+
+LHCb B0->K*mumu BR 2011:
+  experiment: LHCb
+  inspire: Aaij:2011aa
+  values:
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 0.10
+      q2max: 2.0
+      value: 0.61 ± 0.12 ± 0.06 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 2.0
+      q2max: 4.3
+      value: 0.34 ± 0.09 ± 0.02 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 4.3
+      q2max: 8.68
+      value: 0.69 ± 0.08 ± 0.05 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 10.09
+      q2max: 12.86
+      value: 0.55 ± 0.09 ± 0.07 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 14.18
+      q2max: 16.00
+      value: 0.63 ± 0.11 ± 0.05 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 16.0
+      q2max: 19.0
+      value: 0.50 ± 0.08 ± 0.05 e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 1.0
+      q2max: 6.0
+      value: 0.42 ± 0.06 ± 0.03 e-7
