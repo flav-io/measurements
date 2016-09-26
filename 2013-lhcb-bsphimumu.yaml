@@ -30,8 +30,6 @@ LHCb Bs->phimumu BR 2013:
       q2min: 1.0
       q2max: 6.0
       value: 2.27 + 0.50 - 0.46 ± 0.11 ± 0.23 e-8
-    - name: BR(Bs->phimumu)
-      value: 7.07 + 0.64 - 0.59 ± 0.17 ± 0.71 e-7
 
 LHCb Bs->phimumu FL 2013:
   experiment: LHCb

@@ -30,5 +30,3 @@ LHCb B+->Kmumu BR 2012:
       q2min: 1.0
       q2max: 6.0
       value: 5.8 + 1.8 - 1.7 e-8
-    - name: BR(B+->K*mumu)
-      value: 1.16 ± 0.19 e-6
